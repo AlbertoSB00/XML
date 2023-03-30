@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+  <cliente>
+    <nombre>Juan</nombre>
+    <apellidos>Delgado Martínez</apellidos>
+  </cliente>
+  <articulo>
+    <descripcion>Bicicleta Btween 7</descripcion>
+    <pvp>270</pvp>
+    <moneda>€</moneda>
+  </articulo>
+  <direccion_entrega>
+    <tipo_via>C/</tipo_via>
+    <nombre_via>Barco</nombre_via>
+    <numero>4</numero>
+    <planta>3</planta>
+    <letra>A</letra>
+  </direccion_entrega>
+  <plazo_entrega>10/02/2023</plazo_entrega>
+  <forma_envio>Correos Express</forma_envio>
+</pedido>
